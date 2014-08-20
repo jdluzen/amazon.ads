@@ -1,0 +1,5 @@
+syntax: glob
+Amazon.Ads/obj/*
+Debug/*
+Release/*
+*.userprefs
