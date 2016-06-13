@@ -3,3 +3,4 @@ Amazon.Ads/obj/*
 Debug/*
 Release/*
 *.userprefs
+*.suo
