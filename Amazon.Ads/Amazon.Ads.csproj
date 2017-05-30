@@ -55,7 +55,7 @@
     <TransformFile Include="Transforms\Metadata.xml" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedJar Include="Jars\amazon-ads-5.7.2.jar" />
+    <EmbeddedJar Include="Jars\amazon-ads-5.8.1.1.jar" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Xamarin.Android.Bindings.targets" />
 </Project>
