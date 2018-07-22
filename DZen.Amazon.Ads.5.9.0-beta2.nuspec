@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>DZen.Amazon.Ads</id>
-    <version>5.9.0-beta1</version>
+    <version>5.9.0-beta2</version>
     <title>Xamarin.Android bindings to Amazon Mobile Ads</title>
     <authors>Joe Dluzen</authors>
     <owners>Joe Dluzen</owners>
@@ -17,7 +17,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\DZen.Amazon.Ads.dll" target="lib\DZen.Amazon.Ads.dll" />
-    <file src="lib\DZen.Amazon.Ads.pdb" target="lib\DZen.Amazon.Ads.pdb" />
+    <file src="lib\monoandroid81\DZen.Amazon.Ads.dll" target="lib\monoandroid81\DZen.Amazon.Ads.dll" />
+    <file src="lib\monoandroid81\DZen.Amazon.Ads.pdb" target="lib\monoandroid81\DZen.Amazon.Ads.pdb" />
   </files>
 </package>
