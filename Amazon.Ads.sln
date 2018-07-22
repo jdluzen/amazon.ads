@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Ads", "Amazon.Ads\Amazon.Ads.csproj", "{16D51F13-29D7-4F1F-B1A3-21EA952342FF}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZen.Amazon.Ads", "Amazon.Ads\DZen.Amazon.Ads.csproj", "{16D51F13-29D7-4F1F-B1A3-21EA952342FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,12 @@ Global
 		{16D51F13-29D7-4F1F-B1A3-21EA952342FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16D51F13-29D7-4F1F-B1A3-21EA952342FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16D51F13-29D7-4F1F-B1A3-21EA952342FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48DF79CB-1A59-4622-B1BB-32C2ABF00D82}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Amazon.Ads\Amazon.Ads.csproj
