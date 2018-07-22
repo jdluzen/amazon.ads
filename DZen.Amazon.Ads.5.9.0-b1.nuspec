@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DZen.Amazon.Ads</id>
+    <version>5.9.0-b1</version>
+    <title>Xamarin.Android bindings to Amazon Mobile Ads</title>
+    <authors>Joe Dluzen</authors>
+    <owners>Joe Dluzen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android bindings to Amazon Mobile Ads</description>
+    <summary>Xamarin.Android bindings to Amazon Mobile Ads</summary>
+    <releaseNotes>Initial release using Amazon Ads 5.9.0</releaseNotes>
+    <tags>amazon ads xamarin android</tags>
+    <dependencies>
+      <group targetFramework="MonoAndroid8.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\DZen.Amazon.Ads.dll" target="lib\DZen.Amazon.Ads.dll" />
+    <file src="lib\DZen.Amazon.Ads.pdb" target="lib\DZen.Amazon.Ads.pdb" />
+  </files>
+</package>
