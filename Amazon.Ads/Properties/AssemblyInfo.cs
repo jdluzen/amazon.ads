@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyTitle("Amazon.Ads")]
+[assembly: AssemblyTitle("DZen.Amazon.Ads")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
@@ -9,4 +9,4 @@
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyVersion("1.0.0")]
-[assembly: AssemblyFileVersion("5.4.78")]
+[assembly: AssemblyFileVersion("5.9.0")]
