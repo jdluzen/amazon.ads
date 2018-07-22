@@ -2,11 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>DZen.Amazon.Ads</id>
-    <version>5.9.0-b1</version>
+    <version>5.9.0-beta1</version>
     <title>Xamarin.Android bindings to Amazon Mobile Ads</title>
     <authors>Joe Dluzen</authors>
     <owners>Joe Dluzen</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://bitbucket.org/jdluzen/amazon.ads</projectUrl>
     <description>Xamarin.Android bindings to Amazon Mobile Ads</description>
     <summary>Xamarin.Android bindings to Amazon Mobile Ads</summary>
     <releaseNotes>Initial release using Amazon Ads 5.9.0</releaseNotes>
